@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"00345a93b028beffc5525ecfb3703c21","name":"Password Change Tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":3,"unknown":0,"total":3}},{"uid":"be15aedb7bbea3712dfc833701a8007f","name":"Login Tests","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}

@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"This test tries to log in with an invalid email and password and checks the error message.","6164","Test invalid login","","Tue Sep 24 18:47:43 AMT 2024","passed","Tue Sep 24 18:47:49 AMT 2024","","Invalid Login Test Suite","",""
+"This test tries to change the password where new passwords do not match and verifies the error message.","3832","Test password mismatch","","Tue Sep 24 18:48:02 AMT 2024","passed","Tue Sep 24 18:48:06 AMT 2024","","Password Change Error Handling","",""
+"This test logs in with valid credentials and checks the account URL.","5677","Test valid login","","Tue Sep 24 18:47:49 AMT 2024","passed","Tue Sep 24 18:47:55 AMT 2024","","Valid Login Test Suite","",""
+"This test tries to change the password with an incorrect current password and verifies the error message.","7051","Test incorrect current password","","Tue Sep 24 18:47:55 AMT 2024","passed","Tue Sep 24 18:48:02 AMT 2024","","Password Change Error Handling","",""
+"This test changes the password successfully and verifies the success message.","7682","Test successful password change","","Tue Sep 24 18:48:06 AMT 2024","passed","Tue Sep 24 18:48:13 AMT 2024","","Successful Password Change","",""
